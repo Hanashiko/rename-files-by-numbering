@@ -1,6 +1,6 @@
 import os
 
-path = 'C:\\Users\\Hp Elitebook 840 G3\\щось\\переклад\\martial peak\\розділ 30\\оріг' # specify the path to your folder
+path = 'C:\\розділ 30\\оріг'
 files = os.listdir(path)
 
 for index, file in enumerate(files):
